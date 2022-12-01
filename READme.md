@@ -62,7 +62,7 @@ Southeastern Massachusetts |	 $49,891 |	28%	 | 8%	| 36%	| 13%	| 23%
 We wrote several symbology expressions in ERSI’s Arcade scripting language to visualize which block groups meet the REJ+ criteria (saved in Symbology). 
 
 ## Build Dashboard 
-To visualize the results, we developed an ESRI dashboard, hosted (here)[https://massdot.maps.arcgis.com/apps/dashboards/4dec59ffffff4bd7ae119047808a1e93].
+To visualize the results, we developed an ESRI dashboard, hosted [here](https://massdot.maps.arcgis.com/apps/dashboards/4dec59ffffff4bd7ae119047808a1e93).
 
 ## Data Dictionary 
 | Attribute Name  | Description | Data Source | Year | 
