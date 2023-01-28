@@ -70,7 +70,7 @@ To visualize the results, we developed an ESRI dashboard, hosted [here](https://
 Blockid | Census Block Group ID | American Community Survey | 2020
 MPO | MPO Region Name | geoDOT | 2020
 Median Income | Median household income | American Community Survey | 2020
-Minority Status | Percent of individuals who are Hispanic or non-White | American Community Survey 
+Minority Status | Percent of individuals who are Hispanic or non-White | American Community Survey | 2020
 LEP | Percent of individuals with a disability | American Community Survey | 2020
 Disability Status | Percent of individuals with a disability | American Community Survey | 2020 
 Zero-Vehicle Households | Percent of households without a personal vehicle | American Community Survey | 2020
